@@ -1,0 +1,30 @@
+Presentación Prueba Técnica para training en calidad SOFTKA
+Presentado por: Cristian Camilo Arango Fernández
+Contanco: cristiaran@gmail.com
+Teléfono: 3164989470
+
+- Archivo "CristianArango_Punto1.pdf": 
+Contiene el desarrollo de los puntos desde el 1 hasta el 5.
+
+- Archivo "punto1.py":
+Contiene el código del punto 1 de programación desarrollado en python. 
+
+- Archivo "punto2.py":
+Contiene el código del punto 2 de programación desarrollado en python. 
+
+- Archivo "ejercicio1.m"
+Contiene el desarrollo del punto 1 de programación, desarrollado en matlab. 
+
+- Archivos: "calculoavion.fig" y "calculoavion.m" 
+Contienen los archivos con los que se creó la interfaz de usuario para el punto 1.
+La extensión .m contiene código. La extensión .fig contiene la imagen de la interfaz.
+
+- Archivo "VideoGUI_Matlab.wmv"
+Contiene el video de la interfaz por si no lo han podido visualizar. 
+
+NOTA1: Para ejecutar los códigos desarrollados en python (extensión .py), se puede ejecutar
+desde el simbolo de sistema, ubicandose en la carpeta contenedora y escribiendo la palabra
+python antes de el nombre del archivo. EJEMPLO: python punto1.py
+
+NOTA2: Para ejecutar los archivos de Matlab, se debe contar con el programa instalado, de lo 
+contrario, ver el video. 
