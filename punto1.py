@@ -18,3 +18,5 @@ if km>1000 and t>7:
     print("Su tiquete tiene un 30% de descuento")
 # MUESTRA EN PANTALLA EL VALOR DEL PASAJE
 print("El valor del tiquete es: $",v)
+
+#Gracias por visitar mi canal
